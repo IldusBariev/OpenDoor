@@ -1,0 +1,6 @@
+@OpenDoorApi_HostAddress = http://localhost:5160
+
+GET {{OpenDoorApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

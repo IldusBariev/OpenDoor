@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "OpenDoor2\\OpenDoor2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "OpenDoorApi\\OpenDoorApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

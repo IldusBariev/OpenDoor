@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\solution\\opendoor2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|solutionrelative:opendoor2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C2E321-0A89-475C-A77A-55DAA2766736}|OpenDoorApi\\OpenDoorApi.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\solution\\opendoorapi\\controllers\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C2E321-0A89-475C-A77A-55DAA2766736}|OpenDoorApi\\OpenDoorApi.csproj|solutionrelative:opendoorapi\\controllers\\applicant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C2E321-0A89-475C-A77A-55DAA2766736}|OpenDoorApi\\OpenDoorApi.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\solution\\opendoorapi\\response\\applicantresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C2E321-0A89-475C-A77A-55DAA2766736}|OpenDoorApi\\OpenDoorApi.csproj|solutionrelative:opendoorapi\\response\\applicantresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\solution\\opendoor2\\response\\applicantresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|solutionrelative:opendoor2\\response\\applicantresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicantResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\Response\\ApplicantResponse.cs",
+              "RelativeDocumentMoniker": "OpenDoor2\\Response\\ApplicantResponse.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\Response\\ApplicantResponse.cs",
+              "RelativeToolTip": "OpenDoor2\\Response\\ApplicantResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T16:57:45.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "OpenDoor2\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\Pages\\Home.razor",
+              "RelativeToolTip": "OpenDoor2\\Pages\\Home.razor",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAkwIwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T16:38:20.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Applicant.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoorApi\\Controllers\\Applicant.cs",
+              "RelativeDocumentMoniker": "OpenDoorApi\\Controllers\\Applicant.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoorApi\\Controllers\\Applicant.cs",
+              "RelativeToolTip": "OpenDoorApi\\Controllers\\Applicant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:24:54.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicantResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoorApi\\Response\\ApplicantResponse.cs",
+              "RelativeDocumentMoniker": "OpenDoorApi\\Response\\ApplicantResponse.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoorApi\\Response\\ApplicantResponse.cs",
+              "RelativeToolTip": "OpenDoorApi\\Response\\ApplicantResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T17:22:04.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

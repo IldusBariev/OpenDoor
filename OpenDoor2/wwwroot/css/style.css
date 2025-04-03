@@ -1,0 +1,233 @@
+/* ============ BODY ====================*/
+* {
+	font-family: "Roboto", sans-serif;
+	font-size: 24px;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+
+body {
+	background-color: rgb(241, 233, 233);
+	padding: 0 55px;
+	margin: 0;
+	
+}
+#app {
+	display: flex;
+	flex-direction: column;
+	min-height: 100vh;
+}
+
+/* ol, ul {
+   list-style-type: none;
+} */
+
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited, a:active {
+	color: white;
+}
+
+
+/* ============= HEADER =================  */
+.header__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: whitesmoke;
+	background-color: #e24f4a;
+	padding: 25px;
+	border-radius: 20px;
+	margin: 0 0 40px
+}
+
+.item {
+	font-weight: 700;
+	flex: 1;
+}
+
+.buttons {
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+}
+
+.buttons a {
+	font-size: 18px;
+	transition: all .2s;
+	font-weight: 600;
+}
+
+.buttons a:hover {
+	color: #382322;
+/*	color: rgba(0, 0, 0, 0.1);*/
+	font-size: 20px;
+}
+
+.icon {
+	font-weight: 600;
+	flex: 1;
+	text-align: right;
+}
+
+.icon a {
+	transition: all .2s;
+}
+
+.icon a:hover {
+	color: #382322;
+	font-weight: 600;
+}
+
+/* ============= MAIN ================= */
+
+main {
+	display: flex;
+	flex: 1;
+	margin: 0 0 20px;
+}
+
+.main__container {
+	display: flex;
+	justify-content: space-between;
+	flex: 1;
+}
+
+.main__info {
+	font-size: 17px;
+	line-height: 1.6;
+	white-space: pre-line;
+}
+
+.users {
+	margin-bottom: 20px;
+}
+
+.id, .name, .date {
+	font-size: 18px;
+}
+
+
+/* ------ form ------------- */
+.form-input,
+.form-button {
+	border: none;
+	outline: none;
+	font-size: 16px;
+	padding: 12px 20px;
+	border-radius: 8px;
+	transition: all 0.3s ease;
+}
+
+
+.form-input {
+	width: 250px;
+	background-color: #f5f5f5;
+	border: 1px solid #ddd;
+	color: #333;
+	box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.form-input:focus {
+	border-color: #e24f4a;
+	box-shadow: 0 0 0 2px rgba(74, 144, 226, 0.2);
+	background-color: #fff;
+}
+
+.form-button {
+	background-color: #6f7071b6;
+	color: white;
+	cursor: pointer;
+	font-weight: 500;
+	margin-left: 10px;
+}
+
+.form-button:hover {
+	background-color: #e24f4a;
+	transform: translateY(-1px);
+}
+
+.form-button:active {
+	transform: translateY(0);
+	box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+/* ============= FOOTER =============== */
+footer {
+	background-color: #e27673;
+	margin: 0 -55px;
+	padding: 10px 55px 0;
+	color: white;
+}
+
+.footer__container {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 0 20px
+}
+
+.footer__desc {
+	font-size: 14px;
+	line-height: 1.6;
+	white-space: pre-line;
+}
+
+.footer__social-network {
+	display: flex;
+	flex-direction: column;
+}
+
+.footer__social-network p,
+.footer__info p {
+	font-weight: 600;
+	font-size: 17px;
+}
+
+
+.social__network {
+	display: inline-flex; /* или просто flex */
+	align-items: center; /* выравнивание по вертикали */
+	gap: 8px; /* отступ между иконкой и текстом */
+	margin: 10px 0 0;
+}
+
+.social__network a {
+	transition: all .2s;
+}
+
+.social__network a:hover {
+	color: #382322;
+}
+
+
+
+
+.social__icon {
+	flex-shrink: 0; /* предотвращает сжатие иконки */
+}
+
+.social__link {
+	text-decoration: none;
+	display: inline-flex;
+	align-items: center;
+	font-size: 18px;
+}
+
+.our_filial li {
+	font-size: 16px;
+}
+
+.second__footer {
+	background-color: #cc3061;
+	font-size: 16px;
+	text-align: end;
+	color: rgb(0, 0, 0);
+	margin: 0 -55px;
+	padding: 10px 55px 0;
+}

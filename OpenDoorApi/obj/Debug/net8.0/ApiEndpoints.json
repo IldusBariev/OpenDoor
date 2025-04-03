@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "OpenDoorApi.Controllers.Applicant",
+    "Method": "AddApplicantAsync",
+    "RelativePath": "Applicant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OpenDoorApi.Request.ApplicantRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OpenDoorApi.Controllers.Applicant",
+    "Method": "AllApplicantAsync",
+    "RelativePath": "Applicant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
