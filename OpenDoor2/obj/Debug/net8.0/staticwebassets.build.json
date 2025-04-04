@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8O7craadbtowc5tfi+/EThcSA/wkdBbiuZ6Xm0I2BMI=",
+  "Hash": "r14sWp6ei8Iqlk0XVlvwGQUuel8h2TAo5aSRpCwIzC4=",
   "Source": "OpenDoor2",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "wmvvfj038q",
-      "Integrity": "GPOzWu7c+7XWJSx28BVjvXyspbjU9dBVuZtnh0o5crw=",
+      "Fingerprint": "1sj3stjzal",
+      "Integrity": "4abDZMr87ihcOV3eZMxs0kzQsNRp6lBs1nRP7FYKR5E=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -1795,8 +1795,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "p522bigzqa",
-      "Integrity": "baoQ78sE+QJ9Ie+/fwIZSclMrX9cf2yb5sIPhe2Ck3U=",
+      "Fingerprint": "zxcduwpim5",
+      "Integrity": "x/BBRJexpAl++wOoiAXxHuQg+a2Y8RUSgLyiC8cB/eM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\OpenDoor2.pdb"
@@ -1816,8 +1816,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "gmmttddp98",
-      "Integrity": "OEeoW68fQ7v2Jv5Kw89wPm6l2jGU74TMd6FtmIut3Sg=",
+      "Fingerprint": "6hcyd0102s",
+      "Integrity": "Vk+ZtqlEVl+smgOkQohSvnDBKdf0HbFynYkboV/KkF8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\webcil\\OpenDoor2.wasm"
@@ -7283,7 +7283,7 @@
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Linq.Expressions.wasm"
     },
     {
-      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\7sfl1pyneo-p522bigzqa.gz",
+      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\7sfl1pyneo-zxcduwpim5.gz",
       "SourceId": "OpenDoor2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\",
@@ -7297,8 +7297,8 @@
       "RelatedAsset": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\OpenDoor2.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qie8llkkus",
-      "Integrity": "fhtYJz7+kALEN9DBMtjWGZ0L9IIyXkxSCCU9M0aZMmc=",
+      "Fingerprint": "gnijek1qnc",
+      "Integrity": "1Ox9TXlIW665t9aDOr3Cn4SwQmmyOMVrVxj7sFvrD4M=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\OpenDoor2.pdb"
@@ -10895,7 +10895,7 @@
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.wasm"
     },
     {
-      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\ugrlsjsyut-wmvvfj038q.gz",
+      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\ugrlsjsyut-1sj3stjzal.gz",
       "SourceId": "OpenDoor2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\",
@@ -10909,8 +10909,8 @@
       "RelatedAsset": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "aqwr3g2ddo",
-      "Integrity": "cmHPF5EkirUUJn3PWkJgAxK5lkdN4MBwx1mxh1Fgiq0=",
+      "Fingerprint": "yqrek94llr",
+      "Integrity": "+luTdcvkGzUN9JkcjJR4UV1NORtwqKHkHV4AwAk0lz8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -11063,7 +11063,7 @@
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Xml.Linq.wasm"
     },
     {
-      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\vk9040bf0c-gmmttddp98.gz",
+      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\vk9040bf0c-6hcyd0102s.gz",
       "SourceId": "OpenDoor2",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\",
@@ -11077,8 +11077,8 @@
       "RelatedAsset": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\OpenDoor2.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "edmu8vpjvu",
-      "Integrity": "wgA7NmzIZaA14RU2SA2FINhNBBSSSwoO5f5jh0H4/BU=",
+      "Fingerprint": "24uirxqa6j",
+      "Integrity": "8qeorlFLWtJPDRNdHwOXZMeXP6Uk/bbqVW0nkwqFcDc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\OpenDoor2.wasm"
@@ -11770,19 +11770,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6inddtlpxg",
-      "Integrity": "wvbSVSjFgXTLogkLg8B4gwkk9+elETOXWK6pn8UIDe4=",
+      "Fingerprint": "finmwvcut2",
+      "Integrity": "h1zjZ4Jh8EImmcZQ8SOLBu9GSTloKxQjEu+4q15SCwA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\icon-192.png",
+      "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\icon_ktk.svg",
       "SourceId": "OpenDoor2",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\",
       "BasePath": "/",
-      "RelativePath": "icon-192#[.{fingerprint}]?.png",
+      "RelativePath": "icon_ktk#[.{fingerprint}]?.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -11791,11 +11791,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "f9uvjujlxy",
-      "Integrity": "DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "Fingerprint": "cfmuix47bn",
+      "Integrity": "+Ly2Rt7ylW2Og92qpoYEwDHX4KLEsBYwginb3oP0YyQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\icon-192.png"
+      "OriginalItemSpec": "wwwroot\\icon_ktk.svg"
     },
     {
       "Identity": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\index.html",
@@ -11812,8 +11812,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "tbpd6w778y",
-      "Integrity": "eTc1p0qO0/FXTzBtt+gYDlUhjcYJYFz80/x4l2vRqCE=",
+      "Fingerprint": "boeukla03p",
+      "Integrity": "NbJM2MtJT8bP/SDCBVrMBhbKvzCCHYvv5G1zS+4NQyA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -11839,11 +11839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GPOzWu7c+7XWJSx28BVjvXyspbjU9dBVuZtnh0o5crw=\""
+          "Value": "\"4abDZMr87ihcOV3eZMxs0kzQsNRp6lBs1nRP7FYKR5E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:37:00 GMT"
+          "Value": "Fri, 04 Apr 2025 17:41:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11853,18 +11853,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GPOzWu7c+7XWJSx28BVjvXyspbjU9dBVuZtnh0o5crw="
+          "Value": "sha256-4abDZMr87ihcOV3eZMxs0kzQsNRp6lBs1nRP7FYKR5E="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\ugrlsjsyut-wmvvfj038q.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\ugrlsjsyut-1sj3stjzal.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000084573748"
+          "Quality": "0.000084580902"
         }
       ],
       "ResponseHeaders": [
@@ -11874,15 +11874,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11823"
+          "Value": "11822"
         },
         {
           "Name": "ETag",
-          "Value": "\"cmHPF5EkirUUJn3PWkJgAxK5lkdN4MBwx1mxh1Fgiq0=\""
+          "Value": "\"+luTdcvkGzUN9JkcjJR4UV1NORtwqKHkHV4AwAk0lz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:27:34 GMT"
+          "Value": "Fri, 04 Apr 2025 17:36:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11902,19 +11902,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GPOzWu7c+7XWJSx28BVjvXyspbjU9dBVuZtnh0o5crw=\""
+          "Value": "W/\"4abDZMr87ihcOV3eZMxs0kzQsNRp6lBs1nRP7FYKR5E=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GPOzWu7c+7XWJSx28BVjvXyspbjU9dBVuZtnh0o5crw="
+          "Value": "sha256-4abDZMr87ihcOV3eZMxs0kzQsNRp6lBs1nRP7FYKR5E="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\ugrlsjsyut-wmvvfj038q.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\ugrlsjsyut-1sj3stjzal.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11923,7 +11923,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11823"
+          "Value": "11822"
         },
         {
           "Name": "Content-Type",
@@ -11931,11 +11931,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cmHPF5EkirUUJn3PWkJgAxK5lkdN4MBwx1mxh1Fgiq0=\""
+          "Value": "\"+luTdcvkGzUN9JkcjJR4UV1NORtwqKHkHV4AwAk0lz8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:27:34 GMT"
+          "Value": "Fri, 04 Apr 2025 17:36:01 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11953,7 +11953,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cmHPF5EkirUUJn3PWkJgAxK5lkdN4MBwx1mxh1Fgiq0="
+          "Value": "sha256-+luTdcvkGzUN9JkcjJR4UV1NORtwqKHkHV4AwAk0lz8="
         }
       ]
     },
@@ -23339,7 +23339,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "22788"
+          "Value": "22396"
         },
         {
           "Name": "Content-Type",
@@ -23347,11 +23347,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"baoQ78sE+QJ9Ie+/fwIZSclMrX9cf2yb5sIPhe2Ck3U=\""
+          "Value": "\"x/BBRJexpAl++wOoiAXxHuQg+a2Y8RUSgLyiC8cB/eM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:36:58 GMT"
+          "Value": "Fri, 04 Apr 2025 17:41:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23361,18 +23361,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-baoQ78sE+QJ9Ie+/fwIZSclMrX9cf2yb5sIPhe2Ck3U="
+          "Value": "sha256-x/BBRJexpAl++wOoiAXxHuQg+a2Y8RUSgLyiC8cB/eM="
         }
       ]
     },
     {
       "Route": "_framework/OpenDoor2.pdb",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\7sfl1pyneo-p522bigzqa.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\7sfl1pyneo-zxcduwpim5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000063299152"
+          "Quality": "0.000063287134"
         }
       ],
       "ResponseHeaders": [
@@ -23382,15 +23382,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15797"
+          "Value": "15800"
         },
         {
           "Name": "ETag",
-          "Value": "\"fhtYJz7+kALEN9DBMtjWGZ0L9IIyXkxSCCU9M0aZMmc=\""
+          "Value": "\"1Ox9TXlIW665t9aDOr3Cn4SwQmmyOMVrVxj7sFvrD4M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:27:28 GMT"
+          "Value": "Fri, 04 Apr 2025 17:35:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23410,19 +23410,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"baoQ78sE+QJ9Ie+/fwIZSclMrX9cf2yb5sIPhe2Ck3U=\""
+          "Value": "W/\"x/BBRJexpAl++wOoiAXxHuQg+a2Y8RUSgLyiC8cB/eM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-baoQ78sE+QJ9Ie+/fwIZSclMrX9cf2yb5sIPhe2Ck3U="
+          "Value": "sha256-x/BBRJexpAl++wOoiAXxHuQg+a2Y8RUSgLyiC8cB/eM="
         }
       ]
     },
     {
       "Route": "_framework/OpenDoor2.pdb.gz",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\7sfl1pyneo-p522bigzqa.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\7sfl1pyneo-zxcduwpim5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23431,7 +23431,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15797"
+          "Value": "15800"
         },
         {
           "Name": "Content-Type",
@@ -23439,11 +23439,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fhtYJz7+kALEN9DBMtjWGZ0L9IIyXkxSCCU9M0aZMmc=\""
+          "Value": "\"1Ox9TXlIW665t9aDOr3Cn4SwQmmyOMVrVxj7sFvrD4M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:27:28 GMT"
+          "Value": "Fri, 04 Apr 2025 17:35:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23461,7 +23461,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-fhtYJz7+kALEN9DBMtjWGZ0L9IIyXkxSCCU9M0aZMmc="
+          "Value": "sha256-1Ox9TXlIW665t9aDOr3Cn4SwQmmyOMVrVxj7sFvrD4M="
         }
       ]
     },
@@ -23476,7 +23476,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25365"
+          "Value": "23829"
         },
         {
           "Name": "Content-Type",
@@ -23484,11 +23484,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"OEeoW68fQ7v2Jv5Kw89wPm6l2jGU74TMd6FtmIut3Sg=\""
+          "Value": "\"Vk+ZtqlEVl+smgOkQohSvnDBKdf0HbFynYkboV/KkF8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:36:59 GMT"
+          "Value": "Fri, 04 Apr 2025 17:41:55 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23498,18 +23498,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OEeoW68fQ7v2Jv5Kw89wPm6l2jGU74TMd6FtmIut3Sg="
+          "Value": "sha256-Vk+ZtqlEVl+smgOkQohSvnDBKdf0HbFynYkboV/KkF8="
         }
       ]
     },
     {
       "Route": "_framework/OpenDoor2.wasm",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\vk9040bf0c-gmmttddp98.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\vk9040bf0c-6hcyd0102s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000098202887"
+          "Quality": "0.000101770812"
         }
       ],
       "ResponseHeaders": [
@@ -23519,15 +23519,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10182"
+          "Value": "9825"
         },
         {
           "Name": "ETag",
-          "Value": "\"wgA7NmzIZaA14RU2SA2FINhNBBSSSwoO5f5jh0H4/BU=\""
+          "Value": "\"8qeorlFLWtJPDRNdHwOXZMeXP6Uk/bbqVW0nkwqFcDc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:27:33 GMT"
+          "Value": "Fri, 04 Apr 2025 17:35:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23547,19 +23547,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"OEeoW68fQ7v2Jv5Kw89wPm6l2jGU74TMd6FtmIut3Sg=\""
+          "Value": "W/\"Vk+ZtqlEVl+smgOkQohSvnDBKdf0HbFynYkboV/KkF8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-OEeoW68fQ7v2Jv5Kw89wPm6l2jGU74TMd6FtmIut3Sg="
+          "Value": "sha256-Vk+ZtqlEVl+smgOkQohSvnDBKdf0HbFynYkboV/KkF8="
         }
       ]
     },
     {
       "Route": "_framework/OpenDoor2.wasm.gz",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\vk9040bf0c-gmmttddp98.gz",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\obj\\Debug\\net8.0\\compressed\\vk9040bf0c-6hcyd0102s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -23568,7 +23568,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "10182"
+          "Value": "9825"
         },
         {
           "Name": "Content-Type",
@@ -23576,11 +23576,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wgA7NmzIZaA14RU2SA2FINhNBBSSSwoO5f5jh0H4/BU=\""
+          "Value": "\"8qeorlFLWtJPDRNdHwOXZMeXP6Uk/bbqVW0nkwqFcDc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 17:27:33 GMT"
+          "Value": "Fri, 04 Apr 2025 17:35:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23598,7 +23598,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wgA7NmzIZaA14RU2SA2FINhNBBSSSwoO5f5jh0H4/BU="
+          "Value": "sha256-8qeorlFLWtJPDRNdHwOXZMeXP6Uk/bbqVW0nkwqFcDc="
         }
       ]
     },
@@ -50126,51 +50126,6 @@
       ]
     },
     {
-      "Route": "css/style.6inddtlpxg.css",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3628"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"wvbSVSjFgXTLogkLg8B4gwkk9+elETOXWK6pn8UIDe4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 08:22:47 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6inddtlpxg"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-wvbSVSjFgXTLogkLg8B4gwkk9+elETOXWK6pn8UIDe4="
-        }
-      ]
-    },
-    {
       "Route": "css/style.css",
       "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -50189,11 +50144,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wvbSVSjFgXTLogkLg8B4gwkk9+elETOXWK6pn8UIDe4=\""
+          "Value": "\"h1zjZ4Jh8EImmcZQ8SOLBu9GSTloKxQjEu+4q15SCwA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 08:22:47 GMT"
+          "Value": "Thu, 03 Apr 2025 17:41:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -50203,13 +50158,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wvbSVSjFgXTLogkLg8B4gwkk9+elETOXWK6pn8UIDe4="
+          "Value": "sha256-h1zjZ4Jh8EImmcZQ8SOLBu9GSTloKxQjEu+4q15SCwA="
         }
       ]
     },
     {
-      "Route": "icon-192.f9uvjujlxy.png",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\icon-192.png",
+      "Route": "css/style.finmwvcut2.css",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -50218,19 +50173,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2626"
+          "Value": "3628"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "text/css"
         },
         {
           "Name": "ETag",
-          "Value": "\"DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=\""
+          "Value": "\"h1zjZ4Jh8EImmcZQ8SOLBu9GSTloKxQjEu+4q15SCwA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 06:59:53 GMT"
+          "Value": "Thu, 03 Apr 2025 17:41:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -50240,21 +50195,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f9uvjujlxy"
+          "Value": "finmwvcut2"
         },
         {
           "Name": "label",
-          "Value": "icon-192.png"
+          "Value": "css/style.css"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+          "Value": "sha256-h1zjZ4Jh8EImmcZQ8SOLBu9GSTloKxQjEu+4q15SCwA="
         }
       ]
     },
     {
-      "Route": "icon-192.png",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\icon-192.png",
+      "Route": "icon_ktk.cfmuix47bn.svg",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\icon_ktk.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -50263,19 +50218,64 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2626"
+          "Value": "18037"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/png"
+          "Value": "image/svg+xml"
         },
         {
           "Name": "ETag",
-          "Value": "\"DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=\""
+          "Value": "\"+Ly2Rt7ylW2Og92qpoYEwDHX4KLEsBYwginb3oP0YyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 06:59:53 GMT"
+          "Value": "Thu, 27 Feb 2025 11:52:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cfmuix47bn"
+        },
+        {
+          "Name": "label",
+          "Value": "icon_ktk.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+Ly2Rt7ylW2Og92qpoYEwDHX4KLEsBYwginb3oP0YyQ="
+        }
+      ]
+    },
+    {
+      "Route": "icon_ktk.svg",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\icon_ktk.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18037"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+Ly2Rt7ylW2Og92qpoYEwDHX4KLEsBYwginb3oP0YyQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 27 Feb 2025 11:52:44 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -50285,7 +50285,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4="
+          "Value": "sha256-+Ly2Rt7ylW2Og92qpoYEwDHX4KLEsBYwginb3oP0YyQ="
+        }
+      ]
+    },
+    {
+      "Route": "index.boeukla03p.html",
+      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1254"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NbJM2MtJT8bP/SDCBVrMBhbKvzCCHYvv5G1zS+4NQyA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Apr 2025 17:42:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "boeukla03p"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NbJM2MtJT8bP/SDCBVrMBhbKvzCCHYvv5G1zS+4NQyA="
         }
       ]
     },
@@ -50300,7 +50345,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1209"
+          "Value": "1254"
         },
         {
           "Name": "Content-Type",
@@ -50308,11 +50353,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eTc1p0qO0/FXTzBtt+gYDlUhjcYJYFz80/x4l2vRqCE=\""
+          "Value": "\"NbJM2MtJT8bP/SDCBVrMBhbKvzCCHYvv5G1zS+4NQyA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 08:16:38 GMT"
+          "Value": "Thu, 03 Apr 2025 17:42:51 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -50322,52 +50367,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eTc1p0qO0/FXTzBtt+gYDlUhjcYJYFz80/x4l2vRqCE="
-        }
-      ]
-    },
-    {
-      "Route": "index.tbpd6w778y.html",
-      "AssetFile": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1209"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eTc1p0qO0/FXTzBtt+gYDlUhjcYJYFz80/x4l2vRqCE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 03 Apr 2025 08:16:38 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "tbpd6w778y"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eTc1p0qO0/FXTzBtt+gYDlUhjcYJYFz80/x4l2vRqCE="
+          "Value": "sha256-NbJM2MtJT8bP/SDCBVrMBhbKvzCCHYvv5G1zS+4NQyA="
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "OpenDoor2",
   "resources": {
-    "hash": "sha256-4IHTTyGj5c+ke4D4F9T1FjbsQ2adrIu+yd9UBPx/3Oc=",
+    "hash": "sha256-p9R2E4l0xc2PWsh38Q9xr8iRLY4/QIXlZSnaTz+oyMU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -231,10 +231,10 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "OpenDoor2.wasm": "sha256-OEeoW68fQ7v2Jv5Kw89wPm6l2jGU74TMd6FtmIut3Sg="
+      "OpenDoor2.wasm": "sha256-Vk+ZtqlEVl+smgOkQohSvnDBKdf0HbFynYkboV/KkF8="
     },
     "pdb": {
-      "OpenDoor2.pdb": "sha256-baoQ78sE+QJ9Ie+/fwIZSclMrX9cf2yb5sIPhe2Ck3U="
+      "OpenDoor2.pdb": "sha256-x/BBRJexpAl++wOoiAXxHuQg+a2Y8RUSgLyiC8cB/eM="
     },
     "satelliteResources": {
       "cs": {

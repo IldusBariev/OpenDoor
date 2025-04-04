@@ -1401,6 +1401,7 @@ C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\refint\Open
 C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\OpenDoor2.pdb
 C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\ref\OpenDoor2.dll
 C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
-C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\compressed\vk9040bf0c-gmmttddp98.gz
-C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\compressed\7sfl1pyneo-p522bigzqa.gz
-C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\compressed\ugrlsjsyut-wmvvfj038q.gz
+C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\OpenDoor2.sourcelink.json
+C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\compressed\vk9040bf0c-6hcyd0102s.gz
+C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\compressed\7sfl1pyneo-zxcduwpim5.gz
+C:\Users\Диляра\Desktop\VS\Solution\OpenDoor2\obj\Debug\net8.0\compressed\ugrlsjsyut-1sj3stjzal.gz

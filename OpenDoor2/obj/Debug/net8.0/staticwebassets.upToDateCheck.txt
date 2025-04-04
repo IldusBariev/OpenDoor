@@ -1,4 +1,4 @@
 wwwroot\css\app.css
 wwwroot\css\style.css
-wwwroot\icon-192.png
+wwwroot\icon_ktk.svg
 wwwroot\index.html
