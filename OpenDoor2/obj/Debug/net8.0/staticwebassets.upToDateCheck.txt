@@ -2,3 +2,4 @@ wwwroot\css\app.css
 wwwroot\css\style.css
 wwwroot\icon_ktk.svg
 wwwroot\index.html
+wwwroot\textur.jpg

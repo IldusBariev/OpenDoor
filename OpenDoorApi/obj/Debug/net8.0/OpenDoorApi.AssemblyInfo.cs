@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenDoorApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46775ded4912956179074377f5c34cc07ef73ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenDoorApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenDoorApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

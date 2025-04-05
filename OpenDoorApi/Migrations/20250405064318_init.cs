@@ -16,7 +16,7 @@ namespace OpenDoorApi.Migrations
                 .Annotation("MySql:CharSet", "utf8mb4");
 
             migrationBuilder.CreateTable(
-                name: "ApplicantEntity",
+                name: "Applicants",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -27,7 +27,7 @@ namespace OpenDoorApi.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ApplicantEntity", x => x.Id);
+                    table.PrimaryKey("PK_Applicants", x => x.Id);
                 })
                 .Annotation("MySql:CharSet", "utf8mb4");
         }
@@ -36,7 +36,7 @@ namespace OpenDoorApi.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "ApplicantEntity");
+                name: "Applicants");
         }
     }
 }

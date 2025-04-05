@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\OpenDoor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\solution\\opendoor2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|solutionrelative:opendoor2\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\vs\\solution\\opendoor2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|solutionrelative:opendoor2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|c:\\users\\user\\desktop\\opendoor\\opendoor2\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7385BF38-0080-41CF-B582-205CCE4C623E}|OpenDoor2\\OpenDoor2.csproj|solutionrelative:opendoor2\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "OpenDoor2\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\Pages\\Home.razor*",
-              "RelativeToolTip": "OpenDoor2\\Pages\\Home.razor*",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAiwJIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-04T17:34:57.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "OpenDoor2\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\index.html",
-              "RelativeToolTip": "OpenDoor2\\wwwroot\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-04-03T17:42:31.417Z",
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "OpenDoor2\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "OpenDoor2\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-05T09:27:40.454Z",
               "EditorCaption": ""
             }
           ]

@@ -12,7 +12,7 @@ using OpenDoor.DbContexts;
 namespace OpenDoorApi.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250403091712_init")]
+    [Migration("20250405064318_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -42,7 +42,7 @@ namespace OpenDoorApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ApplicantEntity");
+                    b.ToTable("Applicants");
                 });
 #pragma warning restore 612, 618
         }

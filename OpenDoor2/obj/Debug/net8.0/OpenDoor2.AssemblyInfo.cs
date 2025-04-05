@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenDoor2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c20152a4de2446c81429f35928995390ef8ec67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46775ded4912956179074377f5c34cc07ef73ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenDoor2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenDoor2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

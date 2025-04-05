@@ -1,24 +1,28 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\icon_ktk.svg",
+      "Id": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\wwwroot\\icon_ktk.svg",
       "PackagePath": "staticwebassets\\icon_ktk.svg"
     },
     {
-      "Id": "C:\\Users\\Диляра\\Desktop\\VS\\Solution\\OpenDoor2\\wwwroot\\index.html",
+      "Id": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\OpenDoor\\OpenDoor2\\wwwroot\\textur.jpg",
+      "PackagePath": "staticwebassets\\textur.jpg"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OpenDoor2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
